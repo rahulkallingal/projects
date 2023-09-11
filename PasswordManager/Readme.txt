@@ -4,3 +4,6 @@ Pages :
       2. Login
       3. View passwords for a normal user which includes a update feature.
       4. View password of all users if admin is logged in.
+Language : Python-Django
+
+Also capable of Dockerisation
