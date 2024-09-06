@@ -1,0 +1,7 @@
+1. The purpose of the function is to iterate within the given input, that taken strings, lists, tuples, sets etc and and check the creates a dictionary with each element in the input ( or each iteration ) as key and value as the total number of occurrences of that element
+
+2. Improving the code
+    - Use packages ( like Counter )for implementing the logic instead of implementing the algorithm.
+    - Use proper naming instead of letters ( element instead of i, frequency_dict instead of f and     occurrences instead of f function)
+    - Implement a check in the beginning of the function to check if the input is an iterable and return False if it is not and not proceed further.
+    - The improved code is provided in occurrences.py file  
